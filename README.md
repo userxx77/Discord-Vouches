@@ -1,6 +1,6 @@
 ## Discord Vouches
 
-![](https://img.shields.io/github/downloads/userxx77/Discord-Vouches/total?logo=github)!
+![](https://img.shields.io/github/downloads/userxx77/Discord-Vouches/total?logo=github)
 
 
 ## Contact
